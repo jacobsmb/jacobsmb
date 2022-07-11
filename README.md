@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacobsmb
-- 👀 I’m interested in applying malware family analysis to network analysis threats to better understand actor capability and infrastructure
+- 👀 I’m interested in applying malware family analysis to network threats to better understand actor capability and infrastructure
 - 🌱 I’m currently re-engaging in the network threat analysis community ...
 - 💞️ I’m looking to collaborate on network and enterprise threats ...
 - 📫 How to reach me mbjacobs@cert.org
